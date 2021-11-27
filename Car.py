@@ -23,6 +23,8 @@ class Car:
             cyati=80
             cyati=8
             abejo=7
+            TEST2=6
+
     def step1(self):
         self.odometer += self.speed
         self.time += 1
