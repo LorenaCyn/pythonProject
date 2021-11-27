@@ -17,10 +17,11 @@ class Car:
         else:
             self.speed -= 5
             test = 5
-            testqq = 1000669
+            testqq = 3000
             aaaa=5555
             test=7
             cyati=8
+            abejo=7
 
     def step(self):
         self.odometer += self.speed
