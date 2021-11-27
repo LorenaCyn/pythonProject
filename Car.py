@@ -16,12 +16,10 @@ class Car:
             self.speed = 0
         else:
             self.speed -= 5
-            test =10
+            test = 8
             testqq = 1000669
             abejo=355
             coral=44
-            vei=4
-            uu=8
 
 
     def step(self):
