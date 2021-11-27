@@ -16,6 +16,7 @@ class Car:
             self.speed = 0
         else:
             self.speed -= 5
+            bbbb=9999
 
 
 
