@@ -18,7 +18,7 @@ class Car:
             self.speed -= 5
             test = 8
             testqq = 1000669
-            abejo=340
+            abejo=355
 
 
     def step(self):
