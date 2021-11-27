@@ -16,10 +16,10 @@ class Car:
             self.speed = 0
         else:
             self.speed -= 5
-            bbbb=9999
-            ww=888
-            c=89997764
-            ggdd=8888
+            a=77
+            test=77
+            yoy=88
+            abc=00
 
 
 
