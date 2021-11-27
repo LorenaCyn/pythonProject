@@ -22,8 +22,7 @@ class Car:
 
             test1 = 6
 
-            test = 5
-            test = 7
+
 
     def step(self):
         self.odometer += self.speed
