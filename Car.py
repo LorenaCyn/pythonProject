@@ -20,6 +20,9 @@ class Car:
             test = 7
             test8 = 10
 
+            test1 = 6
+            test = 5
+            test = 5
 
 
 
