@@ -17,6 +17,8 @@ class Car:
         else:
             self.speed -= 5
             bbbb=9999
+            bb=888
+            c=89999
 
 
 
