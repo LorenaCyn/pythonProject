@@ -20,6 +20,8 @@ class Car:
             testqq = 1000669
             abejo=355
             coral=44
+            vei=4
+            uu=8
 
 
     def step(self):
