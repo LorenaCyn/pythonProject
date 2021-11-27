@@ -18,6 +18,8 @@ class Car:
             self.speed -= 5
             test = 5
             test=5
+            test=6
+
 
 
 
