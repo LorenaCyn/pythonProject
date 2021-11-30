@@ -20,7 +20,7 @@ class Car:
             testqq = 3000
             aaaa=5555
             test=7
-            cyati=800
+            cyati=8
             cyati=877799
             abejo=7
             TEST2=67677
