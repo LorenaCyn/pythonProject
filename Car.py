@@ -17,7 +17,7 @@ class Car:
         else:
             self.speed -= 5
             test = 5
-            testqq = 3000
+            testqq = 307
             aaaa=5555
             test=7
             cyati=800
