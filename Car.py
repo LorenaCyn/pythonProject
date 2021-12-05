@@ -22,7 +22,7 @@ class Car:
             test=7
             cyati=899
             cyati=877799
-            abejo=90
+            abejo=78
             TEST2=60
 
     def step1(self):
